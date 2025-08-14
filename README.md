@@ -1,4 +1,5 @@
 PROJECT 1 — ETL PIPELINE
+
 This project extracts, transforms, and loads data using Python (pandas + scikit-learn).
 STEPS DONE:
 1. Extract - load dataset from CSV
