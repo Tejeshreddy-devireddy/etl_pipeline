@@ -1,0 +1,5 @@
+Run: 2025-08-14 16:00:38
+Rows: 20
+Numeric cols: ['age', 'income']
+Categorical cols: ['name', 'city']
+Output: outputs/task1/processed.csv
